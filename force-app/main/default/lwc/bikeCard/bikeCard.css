@@ -1,0 +1,10 @@
+section {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+
+.price {
+    color: #c23335;
+}

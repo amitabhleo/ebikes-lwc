@@ -7,8 +7,13 @@
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>E-Bikes</label>
     <navType>Standard</navType>
+    <subscriberTabs>Bike_Card</subscriberTabs>
+    <subscriberTabs>RoboHash</subscriberTabs>
+    <subscriberTabs>Hello_World</subscriberTabs>
     <tabs>standard-home</tabs>
     <tabs>Product_Explorer</tabs>
     <tabs>standard-Account</tabs>
