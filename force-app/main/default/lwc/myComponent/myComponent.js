@@ -5,7 +5,7 @@
 
 import { LightningElement, api } from 'lwc';
 export default class MyComponent extends LightningElement {
-    @api recordId = '0012800000ZFEsIAAX';
+    @api recordId = '01t28000000tPTTAA2';
    
         pictureUrl = 'https://Robohash.org/35';
   
